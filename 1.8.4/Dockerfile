@@ -1,7 +1,7 @@
 FROM debian:jessie
 MAINTAINER Dwight Spencer (@denzuko) <dspencer@computekindustries.com>
 
-ENV ANSIBLE_VERSION 1.9.0.1
+ENV ANSIBLE_VERSION 1.8.2
 ENV HOME /root
 ENV DEBIAN_FRONTEND noninteractive
 
